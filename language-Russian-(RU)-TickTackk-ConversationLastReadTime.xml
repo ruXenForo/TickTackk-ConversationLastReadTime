@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="TickTackk/ConversationLastReadTime" base_version_id="1010070" export_version="2">
-  <phrase title="conversationLastReadTime_last_read_time" addon_id="TickTackk/ConversationLastReadTime" version_id="1000070" version_string="1.0.0"><![CDATA[Last read time]]></phrase>
-  <phrase title="conversationLastReadTime_never" addon_id="TickTackk/ConversationLastReadTime" version_id="1000070" version_string="1.0.0"><![CDATA[Never]]></phrase>
-  <phrase title="permission.conversation_viewLastReadTime" addon_id="TickTackk/ConversationLastReadTime" version_id="1000070" version_string="1.0.0"><![CDATA[View last read time]]></phrase>
+  <phrase title="conversationLastReadTime_last_read_time" addon_id="TickTackk/ConversationLastReadTime" version_id="1010070" version_string="1.1.0"><![CDATA[Время последнего прочтения]]></phrase>
+  <phrase title="conversationLastReadTime_never" addon_id="TickTackk/ConversationLastReadTime" version_id="1010070" version_string="1.1.0"><![CDATA[Никогда]]></phrase>
+  <phrase title="permission.conversation_viewLastReadTime" addon_id="TickTackk/ConversationLastReadTime" version_id="1010070" version_string="1.1.0"><![CDATA[Просмотр времени последнего прочтения]]></phrase>
 </language>
